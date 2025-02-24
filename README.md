@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ricky</h1>
 
 🔭 I’m currently working on [IntelliQ](https://intelliq.dev)
-<br>🌱 I’m currently learning NextJS, Typescript, Golang, PostgreSQL<br>📫 How to reach me: [contact@rickyraveanu.com](mailto:contact@rickyraveanu.com)
+<br>🌱 I’m currently learning NextJS, Typescript, Hono, PostgreSQL<br>📫 How to reach me: [contact@rickyraveanu.com](mailto:contact@rickyraveanu.com)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ricky-raveanu) 
